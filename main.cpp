@@ -78,10 +78,5 @@ int main()
             pc.printf("Fin d'activation\r\n");
                     
        }
-       else {
-           sortie = 1;
-           wait(0.0000001);
-           sortie = 0;
-           }
     }
 }
